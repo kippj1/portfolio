@@ -1,6 +1,6 @@
 ## Welcome to my portfolio
 
-Here you will find links to each class I have built a portfolio for this semester:
+Here you will find links to each class I have built a portfolio for this semester
 
-### [IN601 Professional Practice 2](./IN601.md "Professional Practice 2")
-### [IN602 Software Engineering](./IN602.md "Software Engineering")
+#### [IN601 Professional Practice 2](./IN601.md "Professional Practice 2")
+#### [IN602 Software Engineering](./IN602.md "Software Engineering")
