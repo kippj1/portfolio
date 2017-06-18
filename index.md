@@ -1,6 +1,7 @@
-# Welcome to my portfolio
+# Welcome to my portfolio home page.
 
-Here you will find links to each class I have built a portfolio for this semester
+#### Below you will find links to my individual class portfolios:
+<br>
 
 [IN601 Professional Practice 2](https://kippj1.github.io/portfolio/IN601 "Professional Practice 2")
 
